@@ -44,7 +44,7 @@ Every recommendation in this guide is backed by a citation. If a claim does not 
 |---|---------|---------|
 | 01 | [What Is System Design](./docs/01-what-is-system-design.md) | What system design actually means for a working developer, and why you need it |
 | 02 | [Requirements and Constraints](./docs/02-requirements-and-constraints.md) | Defining functional and non-functional requirements, estimating scale, CAP theorem, and SLOs |
-| 03 | [The C4 Model](./docs/03-c4-model.md) | A practical architecture diagramming approach you can actually use and maintain |
+| 03 | [The C4 Model](./docs/03-C4-model.md) | A practical architecture diagramming approach you can actually use and maintain |
 | 04 | [Monolith vs Modular Monolith](./docs/04-monolith-vs-modular-monolith.md) | The case for starting with a monolith and how to keep it from becoming a mess |
 | 05 | [When Microservices](./docs/05-when-microservices.md) | The real cost of microservices and the actual conditions that justify them |
 | 06 | [API Design and Communication](./docs/06-api-design-and-communication.md) | REST vs GraphQL, sync vs async, message queues, and when each pattern applies |
